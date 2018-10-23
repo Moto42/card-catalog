@@ -4,4 +4,4 @@ const server = require('./lib/server');
 
 
 //initialize the server
-server.startServer('http',3000,(err)=>{console.log(err)});
+server.startServer('http',process.env.PORT,(err)=>{console.log(err)});
