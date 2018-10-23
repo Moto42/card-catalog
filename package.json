@@ -1,0 +1,34 @@
+{
+  "name": "card-catalog",
+  "version": "1.0.0",
+  "description": "The backend of a simple card-catalog for orgainizing a collecton of books. Presents and RESTfull API for use by frontend applications, storesrmation in a MySQL database, and presents a simple, default frontend WebApp.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moto42/card-catalog.git"
+  },
+  "keywords": [
+    "card",
+    "catalog",
+    "html",
+    "css",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Wesley Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moto42/card-catalog/issues"
+  },
+  "homepage": "https://github.com/Moto42/card-catalog#readme"
+}
