@@ -1,4 +1,6 @@
+# dependencies
+/node_modules
 
-
+# private information
 /lib/server/database/secure.js
 .env
